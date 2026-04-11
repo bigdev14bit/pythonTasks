@@ -1,0 +1,10 @@
+"Step by step ALGO in making a cup of tea."
+
+"1. Fill a kettle with a cup of water"
+"2. Boil the kettle of water."
+"3. Monitor the temperature of the water"
+"4. Get a cup of tea"
+"5. Add sugar "
+"6. If no sugar, add Honey"
+"7. Stir"
+"8. Enjoy your Tea"
