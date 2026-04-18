@@ -1,0 +1,5 @@
+"Algorithm for crossing road safely"
+"1. check left and right for crossing road"
+"2. check left again"
+"3. check for traffic light"
+"3. note: checking left and right for safety is the loop"

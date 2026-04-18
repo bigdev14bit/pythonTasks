@@ -1,0 +1,5 @@
+"Pseudocode"
+"1. raining day"
+"2. if it's raining"
+"3. take an umbrella"
+"4. else, put on sunscreen"
