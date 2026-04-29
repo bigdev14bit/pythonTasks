@@ -1,6 +1,6 @@
 def valid_email(email):
-    if len(email) < 8:
-        return False
+    if len(email) > 8:
+        return True
     if "@" not in email:
         return False
     if email.startswith("@"):
